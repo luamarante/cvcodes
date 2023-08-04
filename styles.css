@@ -1,0 +1,81 @@
+
+.experiencia-imagen-section {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  
+  .experiencia-section {
+    flex: 1;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .imagen-section {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .proyectos-section {
+    background-color: #e0e0e0;
+    padding: 20px;
+  }
+  
+  .habilidades-section {
+    background-color: #d0d0d0;
+    padding: 20px;
+  }
+  
+  #experiencia {
+    font-size: 18px;
+  }
+  
+  #proyectos {
+    font-size: 16px;
+  }
+  
+  /* Estilos generales */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #ccc;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  ul li {
+    margin: 5px 0;
+  }
+  
+  img {
+    max-width: 235px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
